@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-hkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-hkumawat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/@hvkgub" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/@hvkgub?logo=twitter&style=for-the-badge" alt="https://twitter.com/@hvkgub" /></a> </p>
-
 - 🌱 I’m currently learning **System Design and Generative AI (GenAI)**
 
-- 👯 I’m looking to collaborate on [Web Development Projects]([Let’s Connect on LinkedIn](http://www.linkedin.com/in/harshita-kumawat-b19119263))
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshita-HKumawat](https://github.com/Harshita-HKumawat)
 
