@@ -3,15 +3,16 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-hkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-hkumawat" /> </p>
+
+- 🔭 I’m currently studying Computer Science **3rd year student**
 
 - 🌱 I’m currently learning **System Design and Generative AI (GenAI)**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on [Web Development Projects ,Let's connect on linkndin](https://www.linkedin.com/in/harshita-kumawat-b19119263)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshita-HKumawat](https://github.com/Harshita-HKumawat)
-
-- 📝 I regularly write articles on [Blog coming soon...](Blog coming soon...)
 
 - 💬 Ask me about ****React,Tailwind CSS,C++,System Design,GenAI**
 
